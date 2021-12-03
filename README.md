@@ -10,7 +10,8 @@ We hope to support the community by providing a multi-purpose set of raw data fo
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
+
+  <summary>Table of Contents</summary>
   Table of Contents
   <ol>
     <li><a href="#folder-tree">Folder Tree</a></li>
@@ -21,7 +22,7 @@ We hope to support the community by providing a multi-purpose set of raw data fo
     <li><a href="#license-of-annotated-dataset">License of annotated dataset</a></li>
     <li><a href="#about-us">About-us</a></li>
   </ol>
-</details>
+
 
 ## Folder Tree
 	DANeS
